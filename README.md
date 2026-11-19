@@ -107,4 +107,3 @@ I'm interested in connecting with researchers, scientists, and developers workin
 
 ---
 
-*"Bridging biology, computation, and artificial intelligence to solve problems in life sciences."*
