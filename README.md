@@ -33,27 +33,6 @@ Currently at **Cognizant**, I contribute to scientific data integration and expl
 
 ---
 
-## 💼 Experience
-
-**Cognizant** | *Associate – Projects*  
-*October 2024 – Present*
-- Functional SME for a scientific data integration platform serving a global pharmaceutical client.
-- Built internal PoCs for Agentic AI-assisted drug discovery and Nextflow-based RNA-seq workflow automation on AWS.
-- Partner with scientific stakeholders and cross-functional teams to translate life sciences requirements into validated solutions.
-
-**Persistent Systems** | *Lead Domain Engineer*  
-*December 2019 – November 2023*
-- Maintained and streamlined automated protocols for microarray and NGS data processing.
-- Automated downloading, quality control, and validation of public repository genomic and transcriptomic datasets, reducing manual effort by ~30%.
-- Collaborated with study investigators on clinical data capture and Case Report Form (CRF) optimization.
-
-**Innoplexus Consulting Services Pvt Ltd** | *Junior Knowledge Associate*  
-*November 2018 – December 2019*
-- Developed machine learning models on large-scale chemical datasets to identify candidates for cancer drug repurposing.
-- Led competitive analyses of FDA-approved drugs and exploratory data analysis in Python.
-
----
-
 ## 📚 Publications, Education & Recognition
 
 **Published Research**
