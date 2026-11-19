@@ -1,25 +1,110 @@
-### Hi there, I'm Subodh Gaikwad 👋[cite: 1]
+# Hi, I'm Subodh Gaikwad 👋
 
-I'm a bioinformatics and scientific data specialist based in **Pune, Maharashtra, India**[cite: 1, 2], working at the intersection of **life sciences, data integration, machine learning, and cloud workflows**[cite: 1, 2]. I hold an **M.Sc. in Bioinformatics** and a **B.Sc. in Zoology** from Savitribai Phule Pune University[cite: 1].
+### Bioinformatics | Computational Drug Discovery | Machine Learning | Scientific AI
 
-#### 🔬 What I Do
-* **Scientific Data & Cloud Workflows:** Serving as a Functional SME on a scientific data integration platform at Cognizant[cite: 1], with prior experience automating microarray and NGS processing and public repository data pipelines (cutting manual effort by ~30%) at Persistent Systems[cite: 1].
-* **Drug Discovery & Chemoinformatics:** Developing machine learning models for cancer drug repurposing and SAR/bioactivity screening of **EGFR/ErbB1** inhibitors[cite: 1, 2].
-* **Genomics, Transcriptomics & Applied AI:** Working across RNA-seq, differential expression, and functional enrichment[cite: 2], alongside internal PoCs for Nextflow on AWS and Agentic/Generative AI-assisted life sciences workflows[cite: 1, 2].
-* **Taxonomy & Biodiversity:** Co-author of a published study on the biology and morphology of *Dicranocephalus lateralis* in Maharashtra (*Journal of Threatened Taxa*, 2017)[cite: 2].
+I'm a Bioinformatics professional with an M.Sc. in Bioinformatics and a B.Sc. in Zoology, based in Pune, India.
 
-#### 🛠️ Core Areas & Tools
-* **Biology & Data:** Genomics, Transcriptomics, RNA-seq, Chemoinformatics, Drug Discovery, Scientific Data Harmonization[cite: 1, 2]
-* **Workflows & Cloud:** Nextflow, AWS, AWS Batch, Linux, GitHub, Streamlit[cite: 2]
-* **Programming & AI:** Python, R, Shell Scripting, Machine Learning, Generative AI & Agentic AI Workflows[cite: 2]
+I work at the intersection of **computational biology, drug discovery, scientific data engineering, and artificial intelligence**, building solutions that connect biological knowledge with computational methods.
 
-#### 📄 Selected Publications & Highlights
-* **Published Research:** *Illustrated description and notes on biology of Dicranocephalus lateralis (Signoret) (Coreoidea: Stenocephalidae) from Maharashtra State, India* — *Journal of Threatened Taxa* (2017)[cite: 2].
-* **Certifications & Honors:** Dataiku Generative AI Practitioner & Core Designer (2026)[cite: 2], AWS Partner: Agentic AI Essentials (2025)[cite: 2], DBT Fellowship (2016–2017)[cite: 2].
-
-#### 📫 Get in Touch
-* **LinkedIn:** [subodh-gaikwad-65566b167](https://www.linkedin.com/in/subodh-gaikwad-65566b167/)[cite: 1]
+Currently at **Cognizant**, I work on scientific data integration and AI-driven life sciences solutions. My interests include machine learning for drug discovery, next-generation sequencing workflows, computational pharmacology, and AI-assisted scientific research.
 
 ---
 
-*Open to conversations around bioinformatics, scientific data, computational drug discovery, and research collaborations.*
+## 🔬 What I'm Working On
+
+- **Computational Drug Discovery:** Developing machine learning models for EGFR/ErbB1 inhibitor activity prediction, QSAR, molecular property analysis, and bioactivity screening.
+- **Bioinformatics & RNA-seq:** Building automated Nextflow-based RNA-seq workflows, including quality control, alignment, gene expression quantification, differential expression, and pathway analysis.
+- **Scientific AI & Agentic Workflows:** Exploring LLM-powered scientific agents, retrieval-augmented generation (RAG), and AI-assisted bioinformatics and drug discovery workflows.
+- **Scientific Data Engineering:** Working on scientific data integration, harmonization, entity resolution, and workflow automation for life sciences.
+
+## 🚀 Selected Technical Interests & Projects
+
+| Area | Focus |
+|---|---|
+| Computational Drug Discovery | EGFR inhibitor prediction, QSAR, cheminformatics |
+| Machine Learning | Molecular fingerprints, Random Forest, XGBoost, deep learning |
+| Genomics & Transcriptomics | RNA-seq, DEG analysis, functional enrichment |
+| Workflow Engineering | Nextflow, nf-core, AWS Batch |
+| Scientific AI | Agentic AI, RAG, LLM-based scientific assistants |
+| Scientific Data | Data harmonization, integration, entity resolution |
+
+## 🛠️ Technology Stack
+
+**Programming & Data Science**
+- Python, R, Shell Scripting
+- Pandas, NumPy, Scikit-learn
+- RDKit, SHAP
+
+**Bioinformatics & Computational Biology**
+- RNA-seq, NGS, Genomics, Transcriptomics
+- Differential Gene Expression
+- Chemoinformatics, QSAR, Molecular Fingerprints
+- PubChem, ChEMBL, PubMed
+
+**Machine Learning & AI**
+- Random Forest, XGBoost, Deep Learning
+- Generative AI, LLMs, RAG
+- Agentic AI Workflows
+
+**Cloud & Workflow Engineering**
+- Nextflow, nf-core
+- AWS, AWS Batch, S3
+- Linux, Git, Streamlit
+
+---
+
+## 💼 Professional Experience
+
+**Cognizant** | Associate – Projects  
+*October 2024 – Present*
+
+- Functional SME for scientific data integration solutions.
+- Contributing to Agentic AI and Generative AI proof-of-concepts for life sciences.
+- Exploring AI-assisted drug discovery and computational biology applications.
+- Working on cloud-native scientific workflows and data-driven solutions.
+
+**Persistent Systems** | Lead Domain Engineer  
+*December 2019 – November 2023*
+
+- Worked on bioinformatics data processing and automation.
+- Developed and automated microarray, NGS, and public repository data workflows.
+- Contributed to scientific data processing solutions, reducing manual effort by approximately 30%.
+
+---
+
+## 📚 Research & Publications
+
+**Published Research (2017)**
+
+*Illustrated description and notes on biology of Dicranocephalus lateralis (Signoret) (Coreoidea: Stenocephalidae) from Maharashtra State, India.*
+
+Journal of Threatened Taxa.
+
+**Education**
+- M.Sc. Bioinformatics — Savitribai Phule Pune University
+- B.Sc. Zoology — Savitribai Phule Pune University
+
+**Certifications & Recognition**
+- Dataiku Generative AI Practitioner & Core Designer (2026)
+- AWS Partner: Agentic AI Essentials (2025)
+- DBT Fellowship (2016–2017)
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in connecting with researchers, scientists, and developers working in:
+
+- Computational Drug Discovery & Chemoinformatics
+- Bioinformatics & Computational Biology
+- Machine Learning in Life Sciences
+- Scientific Data Engineering
+- Generative AI & Agentic AI for Life Sciences
+
+📍India
+
+🔗 [LinkedIn](https://www.linkedin.com/in/subodh-gaikwad-65566b167/)
+
+---
+
+*"Bridging biology, computation, and artificial intelligence to solve problems in life sciences."*
