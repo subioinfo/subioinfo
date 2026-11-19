@@ -2,7 +2,7 @@
 
 ### Bioinformatics | Computational Drug Discovery | Machine Learning | Scientific AI
 
-I'm a Bioinformatics professional with an M.Sc. in Bioinformatics and a B.Sc. in Zoology, based in Pune, India.
+I'm a Bioinformatics professional with an M.Sc. in Bioinformatics and a B.Sc. in Zoology, based India.
 
 I work at the intersection of **computational biology, drug discovery, scientific data engineering, and artificial intelligence**, building solutions that connect biological knowledge with computational methods.
 
